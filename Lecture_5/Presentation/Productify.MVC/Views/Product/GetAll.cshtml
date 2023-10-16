@@ -1,0 +1,45 @@
+﻿@using Productify.Domain.Entities
+@model List<Product>
+
+
+
+
+<h1 style="display: inline-block;"> Product List </h1>
+<form style="display: inline;padding:20px" method="post">
+    <input type="text" placeholder="Product Name" name="productName" />
+    <button class="btn-primary"> Add </button>
+</form>
+
+
+
+<div class="container mt-3">
+    <h2>Striped Rows</h2>
+    <p>The .table-striped class adds zebra-stripes to a table:</p>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Product Name</th>
+                <th>Created On</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in @Model)
+            {
+                <tr>
+                    <td>@product.Id</td>
+                    <td>@product.Name</td>
+                    <td>
+                        <form asp-controller="Product" asp-action="DeleteProduct" method="post">
+                            <input type="hidden" name="id" value="@product.Id" />
+                            <button type="submit" class="btn btn-danger">
+                                Delete
+                            </button>
+                        </form>
+                    </td>
+                   
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "iUtXLXPJMXPLYmy12evxNHGbF9i5eZMyy39DArjZY4CEMQ+PmSPCdEzJppStSOeLNJZ1Wrs/HcyUJ3oh/aCjRg==",
+  "success": true,
+  "projectFilePath": "/Users/ahmetbalaman/Projects/Lecture_5/Lecture_5/Infrastructure/Persistance/Productify.Persistance.csproj",
+  "expectedPackageFiles": [
+    "/Users/ahmetbalaman/.nuget/packages/microsoft.entityframeworkcore/7.0.12/microsoft.entityframeworkcore.7.0.12.nupkg.sha512",
+    "/Users/ahmetbalaman/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.12/microsoft.entityframeworkcore.abstractions.7.0.12.nupkg.sha512",
+    "/Users/ahmetbalaman/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.12/microsoft.entityframeworkcore.analyzers.7.0.12.nupkg.sha512",
+    "/Users/ahmetbalaman/.nuget/packages/microsoft.entityframeworkcore.inmemory/7.0.12/microsoft.entityframeworkcore.inmemory.7.0.12.nupkg.sha512",
+    "/Users/ahmetbalaman/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "/Users/ahmetbalaman/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/Users/ahmetbalaman/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/ahmetbalaman/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/ahmetbalaman/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/ahmetbalaman/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/ahmetbalaman/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/ahmetbalaman/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

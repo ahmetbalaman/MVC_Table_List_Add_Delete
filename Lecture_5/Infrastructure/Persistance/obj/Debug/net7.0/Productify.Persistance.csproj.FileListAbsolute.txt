@@ -1,0 +1,15 @@
+/Users/ahmetbalaman/Projects/Lecture_5/Lecture_5/Infrastructure/Persistance/bin/Debug/net7.0/Productify.Persistance.deps.json
+/Users/ahmetbalaman/Projects/Lecture_5/Lecture_5/Infrastructure/Persistance/bin/Debug/net7.0/Productify.Persistance.dll
+/Users/ahmetbalaman/Projects/Lecture_5/Lecture_5/Infrastructure/Persistance/bin/Debug/net7.0/Productify.Persistance.pdb
+/Users/ahmetbalaman/Projects/Lecture_5/Lecture_5/Infrastructure/Persistance/bin/Debug/net7.0/Productify.Domain.dll
+/Users/ahmetbalaman/Projects/Lecture_5/Lecture_5/Infrastructure/Persistance/bin/Debug/net7.0/Productify.Domain.pdb
+/Users/ahmetbalaman/Projects/Lecture_5/Lecture_5/Infrastructure/Persistance/obj/Debug/net7.0/Productify.Persistance.csproj.AssemblyReference.cache
+/Users/ahmetbalaman/Projects/Lecture_5/Lecture_5/Infrastructure/Persistance/obj/Debug/net7.0/Productify.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetbalaman/Projects/Lecture_5/Lecture_5/Infrastructure/Persistance/obj/Debug/net7.0/Productify.Persistance.AssemblyInfoInputs.cache
+/Users/ahmetbalaman/Projects/Lecture_5/Lecture_5/Infrastructure/Persistance/obj/Debug/net7.0/Productify.Persistance.AssemblyInfo.cs
+/Users/ahmetbalaman/Projects/Lecture_5/Lecture_5/Infrastructure/Persistance/obj/Debug/net7.0/Productify.Persistance.csproj.CoreCompileInputs.cache
+/Users/ahmetbalaman/Projects/Lecture_5/Lecture_5/Infrastructure/Persistance/obj/Debug/net7.0/Productify.Persistance.csproj.CopyComplete
+/Users/ahmetbalaman/Projects/Lecture_5/Lecture_5/Infrastructure/Persistance/obj/Debug/net7.0/Productify.Persistance.dll
+/Users/ahmetbalaman/Projects/Lecture_5/Lecture_5/Infrastructure/Persistance/obj/Debug/net7.0/refint/Productify.Persistance.dll
+/Users/ahmetbalaman/Projects/Lecture_5/Lecture_5/Infrastructure/Persistance/obj/Debug/net7.0/Productify.Persistance.pdb
+/Users/ahmetbalaman/Projects/Lecture_5/Lecture_5/Infrastructure/Persistance/obj/Debug/net7.0/ref/Productify.Persistance.dll

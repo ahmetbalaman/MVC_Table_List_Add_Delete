@@ -1,0 +1,12 @@
+/Users/ahmetbalaman/Projects/Lecture_5/Core/Productify.Domain/bin/Debug/net7.0/Productify.Domain.deps.json
+/Users/ahmetbalaman/Projects/Lecture_5/Core/Productify.Domain/bin/Debug/net7.0/Productify.Domain.dll
+/Users/ahmetbalaman/Projects/Lecture_5/Core/Productify.Domain/bin/Debug/net7.0/Productify.Domain.pdb
+/Users/ahmetbalaman/Projects/Lecture_5/Core/Productify.Domain/obj/Debug/net7.0/Productify.Domain.csproj.AssemblyReference.cache
+/Users/ahmetbalaman/Projects/Lecture_5/Core/Productify.Domain/obj/Debug/net7.0/Productify.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetbalaman/Projects/Lecture_5/Core/Productify.Domain/obj/Debug/net7.0/Productify.Domain.AssemblyInfoInputs.cache
+/Users/ahmetbalaman/Projects/Lecture_5/Core/Productify.Domain/obj/Debug/net7.0/Productify.Domain.AssemblyInfo.cs
+/Users/ahmetbalaman/Projects/Lecture_5/Core/Productify.Domain/obj/Debug/net7.0/Productify.Domain.csproj.CoreCompileInputs.cache
+/Users/ahmetbalaman/Projects/Lecture_5/Core/Productify.Domain/obj/Debug/net7.0/Productify.Domain.dll
+/Users/ahmetbalaman/Projects/Lecture_5/Core/Productify.Domain/obj/Debug/net7.0/refint/Productify.Domain.dll
+/Users/ahmetbalaman/Projects/Lecture_5/Core/Productify.Domain/obj/Debug/net7.0/Productify.Domain.pdb
+/Users/ahmetbalaman/Projects/Lecture_5/Core/Productify.Domain/obj/Debug/net7.0/ref/Productify.Domain.dll

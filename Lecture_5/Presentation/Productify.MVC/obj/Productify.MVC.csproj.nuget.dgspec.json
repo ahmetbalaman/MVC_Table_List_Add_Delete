@@ -1,0 +1,192 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ahmetbalaman/Projects/Lecture_5/Lecture_5/Presentation/Productify.MVC/Productify.MVC.csproj": {}
+  },
+  "projects": {
+    "/Users/ahmetbalaman/Projects/Lecture_5/Core/Productify.Domain/Productify.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ahmetbalaman/Projects/Lecture_5/Core/Productify.Domain/Productify.Domain.csproj",
+        "projectName": "Productify.Domain",
+        "projectPath": "/Users/ahmetbalaman/Projects/Lecture_5/Core/Productify.Domain/Productify.Domain.csproj",
+        "packagesPath": "/Users/ahmetbalaman/.nuget/packages/",
+        "outputPath": "/Users/ahmetbalaman/Projects/Lecture_5/Core/Productify.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ahmetbalaman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.309/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ahmetbalaman/Projects/Lecture_5/Lecture_5/Infrastructure/Persistance/Productify.Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ahmetbalaman/Projects/Lecture_5/Lecture_5/Infrastructure/Persistance/Productify.Persistance.csproj",
+        "projectName": "Productify.Persistance",
+        "projectPath": "/Users/ahmetbalaman/Projects/Lecture_5/Lecture_5/Infrastructure/Persistance/Productify.Persistance.csproj",
+        "packagesPath": "/Users/ahmetbalaman/.nuget/packages/",
+        "outputPath": "/Users/ahmetbalaman/Projects/Lecture_5/Lecture_5/Infrastructure/Persistance/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ahmetbalaman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/ahmetbalaman/Projects/Lecture_5/Core/Productify.Domain/Productify.Domain.csproj": {
+                "projectPath": "/Users/ahmetbalaman/Projects/Lecture_5/Core/Productify.Domain/Productify.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.309/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ahmetbalaman/Projects/Lecture_5/Lecture_5/Presentation/Productify.MVC/Productify.MVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ahmetbalaman/Projects/Lecture_5/Lecture_5/Presentation/Productify.MVC/Productify.MVC.csproj",
+        "projectName": "Productify.MVC",
+        "projectPath": "/Users/ahmetbalaman/Projects/Lecture_5/Lecture_5/Presentation/Productify.MVC/Productify.MVC.csproj",
+        "packagesPath": "/Users/ahmetbalaman/.nuget/packages/",
+        "outputPath": "/Users/ahmetbalaman/Projects/Lecture_5/Lecture_5/Presentation/Productify.MVC/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ahmetbalaman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/sdk/7.0.309/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/ahmetbalaman/Projects/Lecture_5/Core/Productify.Domain/Productify.Domain.csproj": {
+                "projectPath": "/Users/ahmetbalaman/Projects/Lecture_5/Core/Productify.Domain/Productify.Domain.csproj"
+              },
+              "/Users/ahmetbalaman/Projects/Lecture_5/Lecture_5/Infrastructure/Persistance/Productify.Persistance.csproj": {
+                "projectPath": "/Users/ahmetbalaman/Projects/Lecture_5/Lecture_5/Infrastructure/Persistance/Productify.Persistance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.309/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
